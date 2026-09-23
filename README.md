@@ -1,5 +1,4 @@
 # GAME_PROGRAM-EX--2
-# GAME_PROGRAM-EX--2
 
 ## Create a player movement using character, collectable, player health and score
 ## Aim
